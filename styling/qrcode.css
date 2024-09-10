@@ -1,0 +1,49 @@
+
+body {
+    background-color: aquamarine;
+    
+}
+p {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    position: relative;
+}
+body p {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    position: relative;
+}
+img {
+    width: 4cm;
+    height: 4cm;
+}
+body img {
+    align-content: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+body div {
+    position: absolute;
+    background-color: whitesmoke;
+    margin: 10%;
+    margin-left: 40%;
+    height: 400px;
+    width: 300px;
+    
+    
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: blue;
+}
