@@ -6,7 +6,7 @@ body {
 p {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-style: oblique;
+    font-style: italic;
     position: relative;
 }
 body p {
@@ -19,16 +19,20 @@ body p {
 img {
     width: 4cm;
     height: 4cm;
+    border-spacing: 0%;
+    border-radius: 20%;
 }
 body img {
     align-content: center;
+    size: 180px;
     padding-left: 10px;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
     position: relative;
     margin-left: 20%;
-    margin-top: 10%;
+    margin-top: 0%;
+    margin-right: 30%;
 }
 body div {
     position: absolute;
@@ -37,6 +41,7 @@ body div {
     margin-left: 40%;
     height: 400px;
     width: 300px;
+    border-radius: 18%;
     
     
 }
@@ -46,4 +51,15 @@ body div {
 }
 .attribution a {
     color: blue;
+}
+body p1 {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    text-align: center;
+    font-style: bold;
+    font-size: 15PX;
+    font-weight: 400, 700;
 }
